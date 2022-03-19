@@ -1,8 +1,8 @@
 # Access Pro (P01.12V-2021.11)
 
 <p align="middle">
-  <img src="https://github.com/InstaNFC/P01.12V-2021.11/raw/main/3d-front-large.png" width="40%" />
-  <img src="https://github.com/InstaNFC/P01.12V-2021.11/raw/main/3d-back-large.png" width="40%" />
+  <img src="https://github.com/InstaNFC/P01.12V-2021.11/raw/main/Hardware-Images/3d-front-large.png" width="40%" />
+  <img src="https://github.com/InstaNFC/P01.12V-2021.11/raw/main/Hardware-Images/3d-back-large.png" width="40%" />
 </p>
 
 
